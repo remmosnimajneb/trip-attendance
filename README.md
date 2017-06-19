@@ -1,13 +1,13 @@
-Trip Attendance System
+#Trip Attendance System
 
-//Project: Trip Attendance System
-//Code Version: 1.5
-//Author: Benjamin Sommer
-//GitHub: https://github.com/remmosnimajneb
-//Theme Design by: HTML5 UP [HTML5UP.NET] - Theme `Identity`
-//Licensing Information: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+Project: Trip Attendance System
+Code Version: 1.5
+Author: Benjamin Sommer
+GitHub: https://github.com/remmosnimajneb
+Theme Design by: HTML5 UP [HTML5UP.NET] - Theme `Identity`
+Licensing Information: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 
-////////Table of Contents:\\\\\\\\
+##Table of Contents:
 	1. Overview
 	2. Requirements & Install Instructions
 	3. Program Explanation (Computer Stupid Explanation)
@@ -15,7 +15,7 @@ Trip Attendance System
 	5. Files Explanation
 	6. Updates to come
 
-////////SECTION 1/-\OVERVIEW\\\\\\\\
+##SECTION 1/-\OVERVIEW
 
 	We've all been to the petting zoo field trip in 4th grade right? Well ever been in the parent/teacher role for this? It's such a pain to take attendance, make sure all the kids made it back on the busses, and when you have 2, 3, or more busses it can become a 30 minute wait.....well no more of that!
 
@@ -28,7 +28,7 @@ Trip Attendance System
 	Also while speaking about giving credit, the HTML theme comes from html5up.net made by @ajlkn (twitter.com/ajlkn). This guy makes siiiiick stuff, make sure to check him out at html5up.net (Free HTML5 Stunning Mobile Friendly Website Templates [Free!]), carrd.co (An Incredible website builder that looks amazing and works even better!) and his Twitter page (@ajlkn).
 
 
-////////SECTION 2/-\REQUIRMENTS & INSTALL INSTRUCTIONS\\\\\\\\
+##SECTION 2/-\REQUIRMENTS & INSTALL INSTRUCTIONS
 	
 	Requirments:
 
@@ -50,7 +50,7 @@ Trip Attendance System
 
 		-Tip! Use the Edit Roster button on the Admin panel to add students and the System Users button to add Users
 
-////////SECTION 3/-\PROGRAM EXPLINATION\\\\\\\\
+##SECTION 3/-\PROGRAM EXPLINATION
 
 	Aight, here's a Computer Stupid explanation of this program.
 
@@ -67,7 +67,7 @@ Trip Attendance System
 
 	-Hopefully something that I want to implement would to have some kind of 'Save' for rosters, for example, if you go on a trip every Thursday with 50 kids out of 200 total you can have the system remember and show now only those 50 kids!
 
-////////SECTION 4/-\CODE EXPLANATION\\\\\\\\
+##SECTION 4/-\CODE EXPLANATION
 
 	So for all them programmers out here, how does it work?!
 
@@ -91,7 +91,7 @@ Trip Attendance System
 
 			And yes, technically sending updates and getting them have kinda no direct connection to each other.
 
-////////SECTION 5/-\FILES EXPLANATION\\\\\\\\
+##SECTION 5/-\FILES EXPLANATION
 
 	1. functions.php - Holds MySQL DB Connection info and many Required Functions
 	2. login.php - login page
@@ -111,7 +111,7 @@ Trip Attendance System
 	15. logout.php - log out of system, kills all sessions
 	16. assets/css/main.css - main CSS file
 
-////////SECTION 6/-\FUTURE UPDATES LIST\\\\\\\\
+##SECTION 6/-\FUTURE UPDATES LIST
 	
 	-WARNING SUBJECT TO CHANGE/I MIGHT NEVER GET TO THESE!
 
